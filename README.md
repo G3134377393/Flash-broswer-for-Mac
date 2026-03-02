@@ -45,6 +45,8 @@ Flash Browser 是一款仅支持 Apple Silicon（M1/M2/M3/M4 系列芯片） 的
 
 • 渲染：基于 Ruffle / Flash 渲染引擎（你可自行替换）
 
+其实是用摩尔庄园改的(
+
 免责声明
 
 本项目仅用于学习、研究与个人怀旧。
